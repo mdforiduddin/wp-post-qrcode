@@ -1,0 +1,1 @@
+alert(wp_post_qrcode.site_url);
